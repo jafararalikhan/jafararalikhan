@@ -1,6 +1,6 @@
 ![logo](https://github.com/jafararalikhan/jafararalikhan/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jafar Ali Khan</h1>
-<h3 align="center">A Passionate Python Developer From India</h3>
+<h3 align="center">A Passionate Data Scientist From India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/jafararalikhan/jafararalikhan/assets/138870375/cd0836fd-7ced-4f57-893b-62327f3ea01e.gif">
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/jafaral15630836" target="blank"><img src="https://img.shields.io/twitter/follow/jafaral15630836?logo=twitter&style=for-the-badge" alt="jafaral15630836" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science,AI,ML**
+- 🌱 I’m currently learning **Data Science,AI,ML,GenAI**
 
 - 📫 How to reach me **jafararalikhan@outlook.com**
 
