@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/jafaral15630836" target="blank"><img src="https://img.shields.io/twitter/follow/jafaral15630836?logo=twitter&style=for-the-badge" alt="jafaral15630836" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science,AI,ML,GenAI**
+- 🌱 I’m currently learning **GenAI,RAG,LLMs,MCP,VectorDB**
 
 - 📫 How to reach me **jafararalikhan@outlook.com**
 
