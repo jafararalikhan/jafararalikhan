@@ -1,33 +1,91 @@
-![logo](https://github.com/jafararalikhan/jafararalikhan/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
+![banner](https://github.com/jafararalikhan/jafararalikhan/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Jafar Ali Khan</h1>
-<h3 align="center">A Passionate Data Scientist From India</h3>
+<h3 align="center">🤖 Data Scientist | AI/ML Enthusiast | Generative AI Explorer</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/jafararalikhan/jafararalikhan/assets/138870375/cd0836fd-7ced-4f57-893b-62327f3ea01e.gif">
+---
 
+### 🌟 About Me  
+<div style="border: 2px solid #00f0ff; border-radius: 10px; padding: 15px; background-color: #0d1117; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  
+<div style="flex: 1; min-width: 260px; color: #ffffff;">
 
+💡 Exploring **Generative AI, RAG, LLMs, MCP, and Vector Databases (Pinecone)**  
+📊 Skilled in **Data Science, Machine Learning, Deep Learning, and AI Model Deployment**  
+🚀 Passionate about **solving real-world problems using AI-driven insights**  
+⚡ Fun fact: *Crazy ideas make the best innovations!*  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jafararalikhan&label=Profile%20views&color=0e75b6&style=flat" alt="jafararalikhan" /> </p>
+📩 **Reach me at:** `jafararalikhan@outlook.com`  
 
-<p align="left"> <a href="https://twitter.com/jafaral15630836" target="blank"><img src="https://img.shields.io/twitter/follow/jafaral15630836?logo=twitter&style=for-the-badge" alt="jafaral15630836" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **GenAI,RAG,LLMs,MCP,VectorDB**
+<img alt="AI Animation" width="320" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" style="border-radius: 10px; margin-right: 20px;"/>
 
-- 📫 How to reach me **jafararalikhan@outlook.com**
+</div>
 
-- ⚡ Fun fact **I thing I am Crazy Person**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me  
 <p align="left">
-<a href="https://twitter.com/jafaral15630836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jafaral15630836" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jafar-alikha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jafar-alikhan/" height="30" width="40" /></a>
-<a href="https://kaggle.com/jafaalikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jafaalikhan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jafarali_khan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jafarali_khan_/" height="30" width="40" /></a>
-<a href="https://discord.gg/jafaralikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jafaralikhan" height="30" width="40" /></a>
+<a href="https://twitter.com/jafaral15630836" target="blank"><img src="https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jafar-alikh/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kaggle.com/jafaalikhan" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://leetcode.com/jafarali_khan_/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jafararalikhan&show_icons=true&locale=en&layout=compact" alt="jafararalikhan" /></p>
+### 🛠️ Languages & Tools (AI, Data Science & Development)  
+<div style="border: 2px solid #00f0ff; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+<p align="left"> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jafararalikhan&" alt="jafararalikhan" /></p>
+<!-- Core Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
+
+<!-- AI / ML / DS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> 
+
+<!-- GenAI & LLM -->
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/> 
+<img src="https://vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40"/> 
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/> 
+<img src="https://avatars.githubusercontent.com/u/72501482?s=200&v=4" width="40" height="40" alt="Pinecone"/> 
+
+<!-- Databases -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> 
+
+<!-- Web & Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/> 
+
+<!-- DevOps & Cloud -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+
+</p>
+</div>
+
+---
+
+### 📊 GitHub Stats (Robotic AI Theme)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jafararalikhan&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jafararalikhan&theme=react&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jafararalikhan&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=ffffff" alt="Top Languages" />
+</p>
+
+---
+
+✨ *"Transforming data into intelligent AI-driven solutions, one model at a time."*  
